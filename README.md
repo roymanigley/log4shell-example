@@ -2,7 +2,7 @@
 
 ## Requrements:
 
-- java 8
+- [java 8](https://jdk.java.net/java-se-ri/8-MR3)
 
 ## Build
 
